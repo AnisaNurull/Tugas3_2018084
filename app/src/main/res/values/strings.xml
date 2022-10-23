@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pertemuan3_View</string>
+    <string name="des">Brightening dan hydrating serum terbaru dari Avoskin
+        dengan Niacinamide 12% yang berfungsi optimal
+        sebagai booster untuk mencerahkan kulit, memudarkan
+        dark-spots, anti-acne, anti-aging, dan memiliki  melembapkan
+        kulit. Dipadukan dengan ekstrak Centella Asiatica sebagai anti-inflammatory
+        agent yang juga efektif berfungsi sebagai wound healing. Perpaduan keduanya
+        menghasilkan serum yang efektif untuk menjaga kulit cerah maksimal, terhidrasi,
+        terhindar dari masalah jerawat, dan iritasi.</string>
+    <string name="price">Price</string>
+    <string name="Harga_Serum">Rp 112.000</string>
+    <string name="ingredients_serum">Water, Niacinamide, Glycerin, Butylene Glycol, Biosaccharide gum-1, Hydroxyethyl Cellulose, Centella asiatica extract, Phenoxyethanol, Chlorphenesin, Dissodium EDTA, Sodium Bisulfite, 1,2-Hexanediol.</string>
+</resources>
